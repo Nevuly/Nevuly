@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=transparent&animation=twinkling&fontColor=FFFFFF&text=Yang%20Jeong%20Hun&height=150&fontSize=60&desc=Nevuly&descAlignY=75&descAlign=70)](https://github.com/Nevuly)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nevuly&theme=dark&show_icons=true&count_private=true)](https://github.com/Nevuly)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nevuly&theme=dark&count_private=true&hide_progress=true)](https://github.com/Nevuly)
+[![GitHub stats](https://github-readme-stats-eosin-sigma.vercel.app/api?username=Nevuly&theme=dark&show_icons=true&count_private=true)](https://github.com/Nevuly)
+[![Top Langs](https://github-readme-stats-eosin-sigma.vercel.app/api/top-langs/?username=Nevuly&theme=dark&count_private=true&hide_progress=true)](https://github.com/Nevuly)
 
 ---
 
