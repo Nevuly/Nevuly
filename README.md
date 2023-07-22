@@ -7,6 +7,7 @@
 
 ## Who am I?
 `Android Platform / Embedded / Application Developer`
+`Linux BSP Developer at GNAPSE`
 
 ## Stacks
 
