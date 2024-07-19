@@ -26,6 +26,7 @@
 [![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&label=)](https://github.com/Nevuly)
 [![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&label=)](https://github.com/Nevuly)
 [![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&label=)](https://github.com/Nevuly)
+[![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=0095D5&label=)](https://github.com/Nevuly)
 [![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&label=)](https://github.com/Nevuly)
 [![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&label=)](https://github.com/Nevuly)
 
@@ -42,10 +43,9 @@
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&label=)](https://github.com/Nevuly)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&label=)](https://github.com/Nevuly)
 [![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&label=)](https://github.com/Nevuly)
+[![Yocto Project](https://img.shields.io/static/v1?style=for-the-badge&message=Yocto+Project&color=232323&label=)](https://github.com/Nevuly)
 
 ## Try to learning
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&label=)](https://github.com/Nevuly)
 [![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&label=)](https://github.com/Nevuly)
 [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&label=)](https://github.com/Nevuly)
-[![TrueNAS](https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=0095D5&label=)](https://github.com/Nevuly)
-[![Yocto Project](https://img.shields.io/static/v1?style=for-the-badge&message=Yocto+Project&color=232323&label=)](https://github.com/Nevuly)
