@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nevuly"><img src="https://github-readme-stats-eosin-sigma.vercel.app/api?username=Nevuly&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"></a>
-  <a href="https://github.com/Nevuly"><img src="https://github-readme-stats-eosin-sigma.vercel.app/api/top-langs/?username=Nevuly&theme=dark&count_private=true&hide_progress=true" alt="Top Langs"></a>
+  <a href="https://github.com/Nevuly"><img src="https://github-readme-stats-virid-eight-30.vercel.app/api?username=Nevuly&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"></a>
+  <a href="https://github.com/Nevuly"><img src="https://github-readme-stats-virid-eight-30.vercel.app/api/top-langs/?username=Nevuly&theme=dark&count_private=true&hide_progress=true" alt="Top Langs"></a>
 </p>
 
 ---
