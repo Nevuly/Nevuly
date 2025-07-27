@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nevuly">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&animation=twinkling&fontColor=FFFFFF&text=Yang%20Jeong%20Hun&height=150&fontSize=60&desc=Nevuly&descAlignY=75&descAlign=70" alt="Header">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=151515&animation=twinkling&fontColor=DADADA&text=Yang%20Jeong%20Hun&height=150&fontSize=60&desc=Nevuly&descAlignY=75&descAlign=70" alt="Header">
   </a>
 </p>
 
