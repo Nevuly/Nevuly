@@ -71,4 +71,5 @@
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&label=" alt="Docker"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&label=" alt="Node.js"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&label=" alt="Python"></a>
+  <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&label=" alt="Rust"></a>
 </p>
