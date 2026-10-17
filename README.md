@@ -38,6 +38,7 @@
 <p align="center">
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&label=" alt="Arch Linux"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&label=" alt="Debian"></a>
+  <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=FreeRTOS&color=247133&label=" alt="FreeRTOS"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&label=" alt="macOS"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&label=" alt="Proxmox"></a>
   <a href="https://github.com/Nevuly"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TrueNAS&color=0095D5&label=" alt="TrueNAS"></a>
